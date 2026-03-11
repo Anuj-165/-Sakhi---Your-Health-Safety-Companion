@@ -50,7 +50,7 @@ JWT (Authentication)
 🚀 Getting Started
 1. Clone the repository
 Bash
-git clone https://github.com/yourusername/sakhi-wellness.git
+git clone 
 cd sakhi-wellness
 2. Frontend Setup
 Bash
